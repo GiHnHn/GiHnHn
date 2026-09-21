@@ -1,0 +1,26 @@
+# Local credentials and private working material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*service-account*.json
+*tts-key*.json
+.work/
+__pycache__/
+*.pyc
+.venv/
+venv/
+myenv/
+node_modules/
+build/
+dist/
+.firebase/
+uploads/
+searchrecord/
+data/
+model/
+*.keras
+*.h5
+*.pkl
+*.safetensors
